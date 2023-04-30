@@ -71,6 +71,7 @@ Training
 
 
 Fedimint
+
 	campus circular economy that may grow into a local community bank
 	School Store Point of Sale
 	Student Savings Accounts
@@ -87,6 +88,7 @@ Solar
 		
 
 Donations
+
 	OpenNode payments on public website linked to bank and Unchained for deposits
 	Annual Fund - Parents, staff alumni etc donate on a yearly basis
 		currently single sig with marketing and dev holding the wallet	
@@ -108,6 +110,7 @@ Payments - THIS IS MY HACKATHON PROJECT FOR NEXT YEAR!!!
 
 
 Treasury
+
 	Unchained Capital vaults for the various needs like long term treasury, annual fund deposits, tuition deposits etc.
 	Upgrade to the various new features as we grow and need more complex key management.
 	
