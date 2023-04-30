@@ -97,10 +97,12 @@ Payments - THIS IS MY HACKATHON PROJECT FOR NEXT YEAR!!!
 
 	Currently parents pay with cash or check.
 	
-	Soon we will add the ability for parents to log into a PowerSchool SIS Parent Portal and pay (currently they can only fill out forms and see fees and balances). 
+	Soon we will add the ability for parents to log into a PowerSchool SIS Parent Portal and pay 
+	(currently they can only fill out forms and see fees and balances). 
 	Vanco/RevTrak is the credit card and web interface company. 
 	Their stuff links to our current student information system in PowerSchool SIS. 
-	The parent will get routed to their website for the credit card payment and then they fees are marked paid in PowerSchool SIS. 
+	The parent will get routed to their website for the credit card payment
+	Fees are marked paid in PowerSchool SIS. 
 	Need to incorporate a pathway for a Strike-like ability for parents to send the school dollars and we receive dollars
 	We use the bitcoin rails to avoid the 3.9% fee from Vanco.
 	
