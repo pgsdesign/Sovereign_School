@@ -130,16 +130,17 @@ Treasury
 	Upgrade to the various new features as we grow and need more complex key management.
 	
   
-Symbiotic Beta Test Land for Developers
-	Since we have a school with a great network and hundreds of potential users in a fairly controlled environment
-	We are uniquely able to provide developers with a test bed to try stuff with a bunch of folks that will break your shit.
+Symbiotic School and Developer Beta Test Land Win-Win
+
+	Since we have a school with a great network and hundreds of potential users in a fairly controlled environment,
+	we are uniquely able to provide developers with a test bed to try stuff with a bunch of folks that will break your shit.
 	
-	We can find a way for devs to support the school a bit and the school will support the devs a bit.
+	We can find a way for devs to support the school a bit and the school will support the devs a bit - win-win
 	
 	Kids get to be on the front lines of bitcoin development right on their own campus.
 	
 	Kids will getting exposed to this at a young age and will be the next gen devs coming up
 	
-	As a private school, we can work with folks in really creative ways that I'd too dopey to think of, but you will.
+	As a private school, we can work with folks in really creative ways that I'm too dopey to think of, but you all will.
 
 
