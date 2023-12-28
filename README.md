@@ -1,7 +1,7 @@
 # Sovereign_School
 A suite of tools and procedures to help schools move toward a sovereign bitcoin based standard.
 
-School on a Bitcoin Standard
+School on a Bitcoin Standard - so far I've done almost nothing, but I do have 2 students so making progress....
 
 The mission: in pursuit of both school and self sovereignty
 
